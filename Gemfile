@@ -25,4 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem 'bigdecimal', '3.0.0'
 end

@@ -7,3 +7,7 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+vendor
+.bundle
+_publications_my
