@@ -17,7 +17,7 @@ author_profile: true
 
 * More works coming soon...
 
-* [An Empirical Study of Suppressed Static Analysis Warnings](files/FSE25_suppression_study.pdf)  
+* [An Empirical Study of Suppressed Static Analysis Warnings](http://Hhyemin.github.io/files/FSE25_suppression_study.pdf)  
   Huimin Hu, Yingying Wang, Julia Rubin, Michael Pradel.  
   The ACM International Conference on the Foundations of Software Engineering (FSE), 2025
 
