@@ -15,7 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-* More works coming soon...
+<!-- * More works coming soon... -->
+* [CodeMapper: A Language-Agnostic Approach to Mapping Code Regions Across Commits](http://Hhyemin.github.io/files/icse2026_CodeMapper.pdf)  
+  Huimin Hu, Michael Pradel.  
+  In IEEE/ACM 48th International Conference on Software Engineering (ICSE), 2026
 
 * [An Empirical Study of Suppressed Static Analysis Warnings](http://Hhyemin.github.io/files/FSE25_suppression_study.pdf)  
   Huimin Hu, Yingying Wang, Julia Rubin, Michael Pradel.  
